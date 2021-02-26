@@ -7,7 +7,7 @@ print()
 # настройки платформы
 platform_width = 330
 platform_height = 35
-platform_speed = 15
+platform_speed = 15SDSDFSDFSDF
 platform = pygame.Rect(WIDTH // 2 - platform_width // 2, HEIGHT - platform_height - 10, platform_width, platform_height)
 # шарик
 ball_radius = 20
