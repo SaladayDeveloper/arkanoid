@@ -3,7 +3,7 @@ from random import randrange as rnd
 
 WIDTH, HEIGHT = 1200, 800
 fps = 60
-
+print()
 # настройки платформы
 platform_width = 330
 platform_height = 35
